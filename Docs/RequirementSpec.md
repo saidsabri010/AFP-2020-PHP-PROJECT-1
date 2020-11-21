@@ -7,7 +7,12 @@ Requirement specification
 4. Project outline  
 
 
-#purpose
-Build a blog application that can complete the functions of personal blog users logging in,register, publishing, browsing, modifying articles and image videos, messages, comments and even personalizing the layout of blog sites.
+# Purpose
+Build a blog application that can complete the functions of personal blog users glogging in,register, publishing, browsing, modifying articles and image videos, messages, comments and even personalizing the layout of blog sites.
+
+# User needs
+User need to be able to register if he or she want to be blogger.
+User need to be able to log in to post something, delet posts
+
 
 
