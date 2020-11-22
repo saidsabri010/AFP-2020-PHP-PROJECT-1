@@ -24,6 +24,7 @@ the blog can do a lot of stuff for the user(blogger) :
 * users will have a platform in which they can put thier own stuff and change it whenever they want to.
 
 __User needs__
+
 User needs to be able to register if he or she wants to be blogger.
 User needs to be able to log in to post something, delete posts.
 User needs to be able to  publish articles, blogs and write comments.
