@@ -12,7 +12,7 @@ Build a blog application that can complete the functions of personal blog users 
 
 # User needs
 User need to be able to register if he or she want to be blogger.
-User need to be able to log in to post something, delet posts
-
+User need to be able to log in to post something, delete posts.
+User need to be able to  publish articles, blogs and write comments.
 
 
