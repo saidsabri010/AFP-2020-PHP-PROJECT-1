@@ -14,7 +14,7 @@ Requirement specification
 __Project name__
 the project name is : **Blog**
 
-![cashier machine](/images/blogging.png)
+![blog](/images/Blogging.png)
 
 __Purpose__
 Build a blog application that can complete the functions of personal blog users glogging in,register, publishing, browsing, modifying articles and image videos, messages, comments and even personalizing the layout of blog sites.
