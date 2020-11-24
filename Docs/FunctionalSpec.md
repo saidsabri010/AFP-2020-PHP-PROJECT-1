@@ -17,7 +17,24 @@ the interface will be very simple,nice styled register and login and home page t
 
 ## Use Cases
 
+the users have to register and login first before they will lead to the home page.after loging in using a user id as well as password then they will be able to see the home dashboard.the admin can remove or edit user's profiles,while the bloggers can add or remove thier own posts.
+
+* Only Admin can add/remove users.
+* register screen will show the username,email,password,confirm password.
+* The login screen will only show the ID label as well as password label.
+* The dashboard will have text areas as well as buttons like post/submit_post...
+* Users may logout using the button at the top corner.
+* Users may add and remove posts.
+
+
 ## How the system should be and what it should not be  ?__
+
+The system should be as simple as we can make it so that the user can easily use it,otherwise,it shouldn't be broken at any point,always working properly(maintenance) which means we should maintain our application to work properly and if any error shows up we have to catch it(for example : try,catch exception).
+
+Data requirements must be accurate, reliable and true. When you make an action request, such as finding, deleting, modifying, and adding, you should ensure that the input data matches the database data. When meeting the user's request, the system should ensure that the data in response to the inspection rate and accuracy rate.
+
+Time characteristics. 
+In order to meet the user's efficient requirements, the response time of the data, the update processing time, the data conversion and transmission time, the running time should be within 1-5 seconds. When you need to interact with an external device, such as a printer, the response time may be long, but it should be within acceptable limits.
 
 ## User cases
 
