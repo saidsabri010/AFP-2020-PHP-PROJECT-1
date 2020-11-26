@@ -23,6 +23,9 @@ the blog can do a lot of stuff for the user(blogger) :
 * add content to the blog which can be like articales,images,videos.
 * users will have a platform in which they can put thier own stuff and change it whenever they want to.
 
+# Intended audience
+Intended to be used by anyone that has access to internet and has something to write home about. It can be Students, teachers, community members, et ceteral.
+
 __User needs__
 
 User needs to be able to register if he or she wants to be blogger.
