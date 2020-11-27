@@ -11,6 +11,9 @@ if(isset($_GET['logout'])){
 
   //for the database please create one  with name : indexblog and with a table named : posts
   //the table should have id(int),title(varchar,255),body(text),author(varchar,255),created_at(timestap)
+  
+
+
 }
 
 ?>
