@@ -28,7 +28,7 @@ The team is developing a blog application in php, we want all CRUD functionality
 
 
 ## Context
-A description of the problem at hand, why this project is necessary, what people need to know to assess this project, and how it fits into the technical strategy, product strategy, or the team's quarterly goals.
+Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the fucntionality in the second month. any remaining time can be spent on making the website look better. main causes for concern would be to get the full working application out as soon as possible to comply with deadlines and get our grades. the appearance of the website can be changed as the team feels, for us whatis important is to get the functionality out.
 
 
 ## Goals and Non-Goals
