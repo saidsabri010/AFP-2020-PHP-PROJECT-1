@@ -32,12 +32,19 @@ Everyone at this time has the required knowledge to make this project work, we w
 
 
 ## Goals and Non-Goals
-The Goals section should:
 
-describe the user-driven impact of your project ' where your user might be another engineering team or even another technical system
-specify how to measure success using metrics ' bonus points if you can link to a dashboard that tracks those metrics
-Non-Goals are equally important to describe which problems you won't be fixing so everyone is on the same page.
-
+ - Get a working index page 
+ - Get a working Regsiter page 
+ - Get a working login page
+ - Implement the html and css for all these pages 
+ - Get the Create functionality for user posts working fully
+ - Get the Update functionality for user posts working fully
+ - Get the Delete functionality for user posts working fully
+ - Get the View all functionality for user posts working fully
+ - Have a an idea of how we want the website to look and implement it based on the team 
+ - Have everyone use the trello board effectively
+ - Have everyone use proper commit messages 
+ - Have everyone commit regularly 
 
 ## Milestones
 A list of measurable checkpoints, so your PM and your manager's manager can skim it and know roughly when different parts of the project will be done. I encourage you to break the project down into major user-facing milestones if the project is more than 1 month long.
