@@ -24,7 +24,7 @@ With the increasing urge for people to move more and more into Digital, it is ax
 
 
 ## Overview
-A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.
+The team is developing a blog application in php, we want all CRUD functionality on posts, be able to register new accounts to create posts, and be able to log out of those accounts. our database is managed with phpmyadmin and is being hosted on a local server per machine for the sake of testing our application and making sure it works.
 
 
 ## Context
