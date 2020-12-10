@@ -47,16 +47,40 @@ Everyone at this time has the required knowledge to make this project work, we w
  - Have everyone commit regularly 
 
 ## Milestones
-A list of measurable checkpoints, so your PM and your manager's manager can skim it and know roughly when different parts of the project will be done. I encourage you to break the project down into major user-facing milestones if the project is more than 1 month long.
 
-Use calendar dates so you take into account unrelated delays, vacations, meetings, and so on. It should look something like this:
-
-Start Date: June 7, 2018
-Milestone 1 ' New system MVP running in dark-mode: June 28, 2018
-Milestone 2 - Retire old system: July 4th, 2018
-End Date: Add feature X, Y, Z to new system: July 14th, 2018
-
-Add an [Update] subsection here if the ETA of some of these milestone changes, so the stakeholders can easily see the most up-to-date estimates.
+  Start Date: November 7, 2020
+  Milestone 1 Get a working index page 
+  End Date: Be able to view posts in a nice way: November 17, 2020
+  
+  Start Date: November 7, 2020
+  Milestone 2 Get a working Regsiter page  
+  End Date: Be able to have a register form and add users: November 20, 2020
+  
+  Start Date: November 7, 2020
+  Milestone 3 Get a working login page 
+  End Date: Be able to login if there is an existing user account : November 22, 2020
+  
+  Start Date: November 17, 2020
+  Milestone 4 Implement the html and css for all these pages
+  End Date: Have a proper background for all functionality to lay ontop of: November 24, 2020
+  
+  Start Date: November 22, 2020
+  Milestone 5 Get the Create functionality for user posts working fully
+  End Date: Be able to create a new post: November 31, 2020
+  
+  Start Date: November 22, 2020
+  Milestone 6 Get the Update functionality for user posts working fully
+  End Date: Be able to update an existing post if it belongs to a certain user: November 31, 2020
+  
+  
+  Start Date: November 22, 2020
+  Milestone 7 Get the Delete functionality for user posts working fully
+  End Date: Be able to delete your own posts: November 31, 2020
+  
+  
+  Start Date: November 22, 2020
+  Milestone 8 Get the View all functionality for user posts working fully
+  End Date: Be able to view posts in a nice way: November 31, 2020
 
 
 ## Existing Solution
