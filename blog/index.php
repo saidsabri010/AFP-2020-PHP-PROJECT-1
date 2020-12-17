@@ -8,6 +8,9 @@ if(isset($_GET['logout'])){
   session_destroy();
   unset($_SESSION['username']);
   header("location:login.php");
+ 
+     //database for login and register: please create one on xampp named : users and a tables named : users
+     //table should have id(int),username(varchar),email(varchar),password(varchar).
 
     //for the database please create one  with name : indexblog and with a table named : posts
   //the table should have id(int),title(varchar,255),body(text),author(varchar,255),created_at(timestap)
@@ -39,6 +42,7 @@ if(isset($_GET['logout'])){
   <li> <a href="#servecies">Our Service</a> </li>
   <li> <a href="#ourteam">Our Team</a> </li>
   <li> <a href="#about">About</a> </li>
+  <li> <a href="#contact us">Contact us</a> </li>
   <li><a href="index.php?logout='1'">Logout</a></li>
  
 </ul>
