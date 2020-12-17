@@ -9,7 +9,7 @@ if(isset($_GET['logout'])){
   unset($_SESSION['username']);
   header("location:login.php");
  
-     //database for login and register: please create one on xampp named : users and a tables named : users
+     //database for login and register: please create one on xampp named : blog and a tables named : users
      //table should have id(int),username(varchar),email(varchar),password(varchar).
 
     //for the database please create one  with name : indexblog and with a table named : posts
