@@ -44,7 +44,7 @@ if(isset($_GET['logout'])){
   <li> <a href="#about">About</a> </li>
   <li> <a href="#contact us">Contact us</a> </li>
   <li><a href="index.php?logout='1'">Logout</a></li>
- 
+  <li><input type="text" placeholder="Search.."></li>
 </ul>
 </div>
 </div>
