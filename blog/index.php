@@ -28,6 +28,7 @@ if(isset($_GET['logout'])){
     <link rel="icon" href="images/icon.png">
     <link rel="stylesheet" href="index_style.css">
     <link rel="stylesheet" href="https://bootswatch.com/3/cerulean/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
   <div class="main_container" id="home">
@@ -37,14 +38,19 @@ if(isset($_GET['logout'])){
 </div>
 <div class="navbar_items"> 
 <ul>
-  <li> <a href="index.php">Home</a> </li>
+  <li> <a class="active" href="index.php">Home</a> </li>
   <li> <a href="add_post.php">Add post</a></li>
   <li> <a href="#servecies">Our Service</a> </li>
   <li> <a href="#ourteam">Our Team</a> </li>
   <li> <a href="#about">About</a> </li>
   <li> <a href="#contact us">Contact us</a> </li>
   <li><a href="index.php?logout='1'">Logout</a></li>
-  <li><input type="text" placeholder="Search.."></li>
+  <div class="search-container">
+    <form action="">
+      <li><input type="text" placeholder="Search.." name="search"></li>
+      <li><button type="submit"><i class="fa fa-search"></i></button><li>
+    </form>
+  </div>>
 </ul>
 </div>
 </div>
