@@ -46,10 +46,14 @@ if(isset($_GET['logout'])){
   <li> <a href="#contact us">Contact us</a> </li>
   <li><a href="index.php?logout='1'">Logout</a></li>
   <div class="search-container">
-    <form action="">
-      <li><input type="text" placeholder="Search.." name="search"></li>
-      <li><button type="submit"><i class="fa fa-search"></i></button><li>
-    </form>
+  <form action="search.php" method="GET" name="">
+	<table>
+		<tr>
+			<td><input type="text" name="k" value="<?php echo isset($_GET['k']) ? $_GET['k'] : ''; ?>" placeholder="Enter your search keywords" /></td>
+			<td><input type="submit" name="" value="Search" /></td>
+		</tr>
+	</table>
+</form>
   </div>>
 </ul>
 </div>
