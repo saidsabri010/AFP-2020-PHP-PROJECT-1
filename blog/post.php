@@ -8,6 +8,48 @@
 <title>Post</title>
 <link rel="icon" href="images/icon.png">
 <link rel="stylesheet" href="https://bootswatch.com/3/cerulean/bootstrap.min.css">
+<script     src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type="text/javascript">
+
+    $(document).ready(function(){
+        $("#comment_sub").click(function(){
+            if(!$('#comment_text').val())
+              $('#warning').html("<div class='alert alert-warning' role='alert'>comment can not be empty.</div>");
+            else
+            {
+                
+                $('#warning').html("");
+                var content = $('#comment_text').val();
+                var mydate = new Date();
+
+                //alert(content);
+                $('#content').append(mydate.toLocaleDateString() + "：<br>" + content + "<hr>");
+
+                
+                $('#comment_text').val("");
+
+                var article_id = $('#article_id').text();
+
+                
+                $.ajax({
+                        type: "post",
+                 url: "scripts/preserve_comment.php",
+                 data: {article_id: article_id, content: content, time: mydate},
+                 datatype: "json", 
+                 
+                 success: function(msg){
+                    
+                 },
+                 ，
+                 error: function(msg){
+                     
+                     alert(msg);
+                 }
+                 });
+            } 
+        });
+    });
+    </script>
 </head>
 <body>
 <div class="container">
@@ -23,5 +65,12 @@
          </form>
          <a href="editpost.php?id=<?php echo $post['id'];?>  " class="btn btn-default">Edit</a>
     </div>
+    <p id="article_id" class="hidden"><?php echo $article_id ?></p>
+    <div>
+   <p class="small">comments</p>
+   <textarea id="texthelpblock" class="form-control" rows="3">
+   </textarea>
+   <p class="text-right"><button type="button" class="btn btn-primary btn-xs">submit</button></p>
+</div>
 </body>
 </html>
