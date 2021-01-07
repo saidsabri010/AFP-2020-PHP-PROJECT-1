@@ -60,7 +60,7 @@ if(isset($_GET['logout'])){
 </div>
   <div class="container">
   <h1>Posts</h1>
-    <?php foreach($posts as $post) :?>
+  <?php foreach($posts as $post) :?>
     <div class="well"> 
          <h3><?php echo $post['title']; ?></h3>
          <small>Created on<?php echo $post['created_at']; ?> by <?php echo $post['author']; ?> </small>
