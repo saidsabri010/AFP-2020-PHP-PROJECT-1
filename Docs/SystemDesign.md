@@ -84,7 +84,7 @@ Everyone at this time has the required knowledge to make this project work, we w
 ## Existing Solution
 In addition to describing the current implementation, you should also walk through a high level example flow to illustrate how users interact with this system and/or how data flow through it.
 
-A user story is a great way to frame this. Keep in mind that your system might have different types of users with different use cases.
+An user story is a great way to frame this. Keep in mind that your system might have different types of users with different use cases.
 
 
 ## Proposed Solution
