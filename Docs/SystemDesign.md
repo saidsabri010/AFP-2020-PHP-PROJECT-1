@@ -18,7 +18,7 @@ With the increasing urge for people to move more and more into Digital, it is ax
  3.5. Friedrichs Wade David
  3.6. Silabela Mxolisi
 
-4. eadline for all tasks are the same: 15/12/2020
+4. Headline for all tasks are the same: 15/12/2020
 
 5. Estimated Budget for the project is 20.000.000 Ft
 
