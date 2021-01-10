@@ -2,7 +2,7 @@ System design
 ========
 
 ## Introduction
-With the increasing urge for people to move more and more into Digital, it is axiomatic that people will most likely move more into blogs rather than newspaper articles. We think A blog that will bre best suited for the public is of paramount importance since it is both inviting for the writers and readers.
+With the increasing urge for people to move more and more into Digital, it is axiomatic that people will most likely move more into blogs rather than newspaper articles. We think A blog that will bre best suited for the public is of paramount importance since it is both inviting for the writers and thereaders.
 
 ## Project plan
 
