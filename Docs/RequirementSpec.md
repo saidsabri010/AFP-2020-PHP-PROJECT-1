@@ -9,7 +9,7 @@ Requirement specification
 6. Current situation 
 7. Goal  
 8. Glossary
-9. other requirements
+9. Other requirements
 
 __Project name__
 the project name is : **Blog**
