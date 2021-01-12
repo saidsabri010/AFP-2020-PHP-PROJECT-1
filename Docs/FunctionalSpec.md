@@ -17,7 +17,7 @@ the interface will be very simple,nice styled register and login and home page t
 
 ## Use Cases
 
-the users have to register and login first before they will lead to the home page.after loging in using a user id as well as password then they will be able to see the home dashboard.the admin can remove or edit user's profiles,while the bloggers can add or remove thier own posts.
+The users have to register and login first before they will lead to the home page.after loging in using a user id as well as password then they will be able to see the home dashboard.the admin can remove or edit user's profiles,while the bloggers can add or remove thier own posts.
 
 * Only Admin can add/remove users.
 * register screen will show the username,email,password,confirm password.
