@@ -13,7 +13,7 @@ We have agreed to develop a blog application,the application will let the user t
 
 The interface will be a not so complicated one, a simple login screen only and a dashboard that will have buttons such as; add item, remove item, produce slip, etc. No database will be used since this is a small project, everything will be hardcoded into the project. With this simple design we aim to provide an easy interface that doesnt require much training leaving less stress on the owners to train new employees. 
 
-the interface will be very simple,nice styled register and login and home page that will have some buttons and labels for like posting or deleting a post/picture or whatever the user can do.database as well to store the user information,with this project we will provide a simple design no matter how much training does it need,as long as it easy for the user to use.
+The interface will be very simple,nice styled register and login and home page that will have some buttons and labels for like posting or deleting a post/picture or whatever the user can do.database as well to store the user information,with this project we will provide a simple design no matter how much training does it need,as long as it easy for the user to use.
 
 ## Use Cases
 
