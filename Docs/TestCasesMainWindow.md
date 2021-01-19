@@ -8,18 +8,18 @@ ACTUAL RESULT:  Your content is empty
 PASS/FAIL:      Pass 
 ==================================================
 TEST ID:        2
-TEST SCENARIO:  Try press truth and see if dare question will come up
+TEST SCENARIO:  Try try to type something that does not make sense
 TEST STEPS:     Go to the main window , truth button
 
-EXPECTED RESULT:Only truth questions
-ACTUAL RESULT:  Only truth questions
+EXPECTED RESULT: Error line shows
+ACTUAL RESULT:  Error line shows
 PASS/FAIL:      Pass 
 ==================================================
 TEST ID:        3
-TEST SCENARIO:  Try press dare and see if truth question will come up
-TEST STEPS:     Go to the main window , dare button
+TEST SCENARIO:  Type something without a title
+TEST STEPS:     Go to the main window start typing
 
-EXPECTED RESULT:Only dare questions
-ACTUAL RESULT:  Only dare questions
+EXPECTED RESULT:Please add title window
+ACTUAL RESULT:  Please add title window
 PASS/FAIL:      Pass 
 
