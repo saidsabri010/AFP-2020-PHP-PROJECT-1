@@ -6,10 +6,10 @@ Requirement specification
 3. Intended audience
 4. User needs 
 5. Project outline 
-6. current situation 
+6. Current situation 
 7. Goal  
 8. Glossary
-9. other requirements
+9. Other requirements
 
 __Project name__
 the project name is : **Blog**

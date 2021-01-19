@@ -7,17 +7,17 @@ We, as a team setting up our environment to startup our group project with the f
 5. Friedrichs Wade David
 6. Silabela Mxolisi
 
-we have agreed to develop a blog application,the application will let the user to become a blogger by allowing them to post thier content,Currently we are working on documentation which is an integral part of our application.This will give us ideas so that we will have a better understanding when it comes to implementation of our project.
+We have agreed to develop a blog application,the application will let the user to become a blogger by allowing them to post thier content,Currently we are working on documentation which is an integral part of our application.This will give us ideas so that we will have a better understanding when it comes to implementation of our project.
 
 ## UI Plan
 
 The interface will be a not so complicated one, a simple login screen only and a dashboard that will have buttons such as; add item, remove item, produce slip, etc. No database will be used since this is a small project, everything will be hardcoded into the project. With this simple design we aim to provide an easy interface that doesnt require much training leaving less stress on the owners to train new employees. 
 
-the interface will be very simple,nice styled register and login and home page that will have some buttons and labels for like posting or deleting a post/picture or whatever the user can do.database as well to store the user information,with this project we will provide a simple design no matter how much training does it need,as long as it easy for the user to use.
+The interface will be very simple,nice styled register and login and home page that will have some buttons and labels for like posting or deleting a post/picture or whatever the user can do.database as well to store the user information,with this project we will provide a simple design no matter how much training does it need,as long as it easy for the user to use.
 
 ## Use Cases
 
-the users have to register and login first before they will lead to the home page.after loging in using a user id as well as password then they will be able to see the home dashboard.the admin can remove or edit user's profiles,while the bloggers can add or remove thier own posts.
+The users have to register and login first before they will lead to the home page.after loging in using a user id as well as password then they will be able to see the home dashboard.the admin can remove or edit user's profiles,while the bloggers can add or remove thier own posts.
 
 * Only Admin can add/remove users.
 * register screen will show the username,email,password,confirm password.

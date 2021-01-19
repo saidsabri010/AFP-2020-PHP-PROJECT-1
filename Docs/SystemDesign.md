@@ -2,7 +2,7 @@ System design
 ========
 
 ## Introduction
-With the increasing urge for people to move more and more into Digital, it is axiomatic that people will most likely move more into blogs rather than newspaper articles. We think A blog that will bre best suited for the public is of paramount importance since it is both inviting for the writers and readers.
+With the increasing urge for people to move more and more into Digital, it is axiomatic that people will most likely move more into blogs rather than newspaper articles. We think A blog that will bre best suited for the public is of paramount importance since it is both inviting for the writers and thereaders.
 
 ## Project plan
 
@@ -18,44 +18,73 @@ With the increasing urge for people to move more and more into Digital, it is ax
  3.5. Friedrichs Wade David
  3.6. Silabela Mxolisi
 
-4. eadline for all tasks are the same: 15/12/2020
+4. Headline for all tasks are the same: 15/12/2020
 
 5. Estimated Budget for the project is 20.000.000 Ft
 
 
 ## Overview
-A high level summary that every engineer at the company should understand and use to decide if it's useful for them to read the rest of the doc. It should be 3 paragraphs max.
+The team is developing a blog application in php, we want all CRUD functionality on posts, be able to register new accounts to create posts, and be able to log out of those accounts. our database is managed with phpmyadmin and is being hosted on a local server per machine for the sake of testing our application and making sure it works.
 
 
 ## Context
-A description of the problem at hand, why this project is necessary, what people need to know to assess this project, and how it fits into the technical strategy, product strategy, or the team's quarterly goals.
+Everyone at this time has the required knowledge to make this project work, we would like to see all pages implemented in the first month and having all the fucntionality in the second month. any remaining time can be spent on making the website look better. main causes for concern would be to get the full working application out as soon as possible to comply with deadlines and get our grades. the appearance of the website can be changed as the team feels, for us whatis important is to get the functionality out.
 
 
 ## Goals and Non-Goals
-The Goals section should:
 
-describe the user-driven impact of your project ' where your user might be another engineering team or even another technical system
-specify how to measure success using metrics ' bonus points if you can link to a dashboard that tracks those metrics
-Non-Goals are equally important to describe which problems you won't be fixing so everyone is on the same page.
-
+ - Get a working index page 
+ - Get a working Regsiter page 
+ - Get a working login page
+ - Implement the html and css for all these pages 
+ - Get the Create functionality for user posts working fully
+ - Get the Update functionality for user posts working fully
+ - Get the Delete functionality for user posts working fully
+ - Get the View all functionality for user posts working fully
+ - Have a an idea of how we want the website to look and implement it based on the team 
+ - Have everyone use the trello board effectively
+ - Have everyone use proper commit messages 
+ - Have everyone commit regularly 
 
 ## Milestones
-A list of measurable checkpoints, so your PM and your manager's manager can skim it and know roughly when different parts of the project will be done. I encourage you to break the project down into major user-facing milestones if the project is more than 1 month long.
 
-Use calendar dates so you take into account unrelated delays, vacations, meetings, and so on. It should look something like this:
-
-Start Date: June 7, 2018
-Milestone 1 ' New system MVP running in dark-mode: June 28, 2018
-Milestone 2 - Retire old system: July 4th, 2018
-End Date: Add feature X, Y, Z to new system: July 14th, 2018
-
-Add an [Update] subsection here if the ETA of some of these milestone changes, so the stakeholders can easily see the most up-to-date estimates.
+  - Start Date: November 7, 2020
+  - Milestone 1 Get a working index page 
+  - End Date: Be able to view posts in a nice way: November 17, 2020
+  
+  - Start Date: November 7, 2020
+  - Milestone 2 Get a working Regsiter page  
+  - End Date: Be able to have a register form and add users: November 20, 2020
+  
+  - Start Date: November 7, 2020
+  - Milestone 3 Get a working login page 
+  - End Date: Be able to login if there is an existing user account : November 22, 2020
+  
+  - Start Date: November 17, 2020
+  - Milestone 4 Implement the html and css for all these pages
+  - End Date: Have a proper background for all functionality to lay ontop of: November 24, 2020
+  
+  - Start Date: November 22, 2020
+  - Milestone 5 Get the Create functionality for user posts working fully
+  - End Date: Be able to create a new post: November 31, 2020
+  
+  - Start Date: November 22, 2020
+  - Milestone 6 Get the Update functionality for user posts working fully
+  - End Date: Be able to update an existing post if it belongs to a certain user: November 31, 2020
+   
+  - Start Date: November 22, 2020
+  - Milestone 7 Get the Delete functionality for user posts working fully
+  - End Date: Be able to delete your own posts: November 31, 2020
+   
+  - Start Date: November 22, 2020
+  - Milestone 8 Get the View all functionality for user posts working fully
+  - End Date: Be able to view posts in a nice way: November 31, 2020
 
 
 ## Existing Solution
 In addition to describing the current implementation, you should also walk through a high level example flow to illustrate how users interact with this system and/or how data flow through it.
 
-A user story is a great way to frame this. Keep in mind that your system might have different types of users with different use cases.
+An user story is a great way to frame this. Keep in mind that your system might have different types of users with different use cases.
 
 
 ## Proposed Solution
