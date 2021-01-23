@@ -2,7 +2,7 @@ System design
 ========
 
 ## Introduction
-With the increasing urge for people to move more and more into Digital, it is axiomatic that people will most likely move more into blogs rather than newspaper articles. We think A blog that will bre best suited for the public is of paramount importance since it is both inviting for the writers and readers.
+With the increasing urge for people to move more and more into Digital, it is axiomatic that people will most likely move more into blogs rather than newspaper articles. We think A blog that will bre best suited for the public is of paramount importance since it is both inviting for the writers and thereaders.
 
 ## Project plan
 
@@ -18,7 +18,7 @@ With the increasing urge for people to move more and more into Digital, it is ax
  3.5. Friedrichs Wade David
  3.6. Silabela Mxolisi
 
-4. eadline for all tasks are the same: 15/12/2020
+4. Headline for all tasks are the same: 15/12/2020
 
 5. Estimated Budget for the project is 20.000.000 Ft
 
@@ -84,7 +84,7 @@ Everyone at this time has the required knowledge to make this project work, we w
 ## Existing Solution
 In addition to describing the current implementation, you should also walk through a high level example flow to illustrate how users interact with this system and/or how data flow through it.
 
-A user story is a great way to frame this. Keep in mind that your system might have different types of users with different use cases.
+An user story is a great way to frame this. Keep in mind that your system might have different types of users with different use cases.
 
 
 ## Proposed Solution
