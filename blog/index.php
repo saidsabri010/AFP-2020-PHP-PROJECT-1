@@ -40,7 +40,7 @@ if(isset($_GET['logout'])){
 <ul>
   <li> <a class="active" href="index.php">Home</a> </li>
   <li> <a href="add_post.php">Add post</a></li>
-  <li> <a href="#servecies">Our Service</a> </li>
+  <li> <a href="our_services.php">Our Service</a> </li>
   <li> <a href="#ourteam">Our Team</a> </li>
   <li> <a href="#about">About</a> </li>
   <li> <a href="#contact us">Contact us</a> </li>
