@@ -4,13 +4,10 @@
 <meta charset="utf-8">
 <title>Untitled Document</title>
 <style type="text/css">
-body,td,th {
-	color: #000000;
-}
-body {
-	background-color: #D9D1D1;
+
+body {	
 	margin-left: 100px;
-	background-image: url(file:///C|/xampp/htdocs/AFP-2020-PHP-PROJECT/images/download.jpg);
+	background-image: url(images/download.jpg);
 	background-repeat: no-repeat;
 }
 a:link {
@@ -18,8 +15,8 @@ a:link {
 }
 </style>
 </head>
+ <a href="images\our_services.jpg">	
 
-<body bgcolor="#D02D30">
 <p>&nbsp;</p>
 <h1>
   <p>       <em><strong>  </strong></em>Welcome to our web page. </p></h1>
@@ -34,6 +31,6 @@ a:link {
 
 <p>&nbsp;</p>
 	 <h2>ARE YOU READY</h2>
-	 <h1>Then click to -&gt; Create Your Post <a href='post.php'>&lt;- </h1>
+	 <h1>Then click to -&gt; <a href='post.php'>Create Your Post &lt;- </h1>
 </body>
 </html>

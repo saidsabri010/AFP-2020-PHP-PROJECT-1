@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
+<link rel="stylesheet" href="style_our_services.css">
 <title>Untitled Document</title>
 <style type="text/css">
 body,td,th {
@@ -10,7 +11,7 @@ body,td,th {
 body {
 	background-color: #D9D1D1;
 	margin-left: 100px;
-	background-image: url(file:///C|/xampp/htdocs/AFP-2020-PHP-PROJECT/images/download.jpg);
+	background-image: url(images/download.jpg);
 	background-repeat: no-repeat;
 }
 a:link {
