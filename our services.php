@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <link rel="stylesheet" href="style_our_services.css">
-<title>Untitled Document</title>
+<title>OUR SERVICES</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-
+<body>
 <p>&nbsp;</p>
 <h1>
   <p>       <em><strong>  </strong></em>Welcome to our web page. </p></h1>
@@ -22,7 +22,7 @@
 
 
 <p>Already a user ! <a href="register.php"><b> Register Here</b> </a> </p>
-	 <h2>ARE YOU READY</h2>
-	 <h1>Then click to -&gt; Create Your Post &lt;- </h1>
+ <h2>ARE YOU READY</h2>
+ <h1>Then click to -&gt; Create Your Post &lt;- </h1>
 </body>
 </html>
