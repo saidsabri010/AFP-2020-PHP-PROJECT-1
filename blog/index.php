@@ -25,7 +25,7 @@ if(isset($_GET['logout'])){
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog</title>
-    <link rel="icon" href="images/icon.png">
+    <link rel="icon" href="/blog/images/icon.png">
     <link rel="stylesheet" href="index_style.css">
     <link rel="stylesheet" href="https://bootswatch.com/3/cerulean/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
