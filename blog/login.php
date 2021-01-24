@@ -27,6 +27,6 @@
   	</div>
 </form>
 <br>
-<p>Already a user ! <a href="register.php"><b> Register Here</b> </a> </p>
+<p>Not a user! <a href="register.php"><b> Register Here</b> </a> </p>
   </body>
 </html>

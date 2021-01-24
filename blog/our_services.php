@@ -2,21 +2,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
-<style type="text/css">
-
-body {	
-	margin-left: 100px;
-	background-image: url(images/download.jpg);
-	background-repeat: no-repeat;
-}
-a:link {
-	color: #E91518;
-}
-</style>
+<link rel="stylesheet" href="style_our_services.css">
+<title>OUR SERVICES</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
- <a href="images\our_services.jpg">	
 
+<body>
 <p>&nbsp;</p>
 <h1>
   <p>       <em><strong>  </strong></em>Welcome to our web page. </p></h1>
@@ -29,8 +20,10 @@ a:link {
 <h3>This is a one any usual web pages where you can create posts.</h3>
 <h3> You can ask questions. You can understand any other peoples' ideas. You can have a chat. You can share your stories. You can share your best time photos, Highlights from your life <em>AND STILL CAN BE PRIVATE FOR PUBLIC</em>.</h3>
 
-<p>&nbsp;</p>
-	 <h2>ARE YOU READY</h2>
-	 <h1>Then click to -&gt; <a href='post.php'>Create Your Post &lt;- </h1>
+
+<p>You are not a user ! <a href="register.php"><b> Register Here</b> </a> </p>
+<p>Already a user ! <a href="login.php"><b> Login</b> </a> </p>
+ <h2>ARE YOU READY</h2>
+ <h1>Then click to -&gt; Create Your Post &lt;- </h1>
 </body>
 </html>
