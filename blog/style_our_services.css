@@ -8,7 +8,7 @@
 body{
     font-size: 120%;
     font-family: 'Castoro', serif;
-    background-image : url('/blog/images/download.jpg');
+    background-image : url('blog/images/download.jpg');
     background-repeat: no-repeat;
 
 }
