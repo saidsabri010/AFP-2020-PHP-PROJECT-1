@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<a href="'blog/images/our_services.jpg">
+	 
 <p>&nbsp;</p>
 <h1>
   <p>       <em><strong>  </strong></em>Welcome to our web page. </p></h1>

@@ -41,7 +41,7 @@ if(isset($_GET['logout'])){
   <li> <a class="active" href="index.php">Home</a> </li>
   <li> <a href="add_post.php">Add post</a></li>
   <li> <a href="our_services.php">Our Service</a> </li>
-  <li> <a href="#ourteam">Our Team</a> </li>
+  <li> <a href="our_team.php">Our Team</a> </li>
   <li> <a href="#about">About</a> </li>
   <li> <a href="#contact us">Contact us</a> </li>
   <li><a href="index.php?logout='1'">Logout</a></li>
