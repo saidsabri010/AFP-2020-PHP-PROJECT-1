@@ -32,14 +32,26 @@ if(isset($_GET['logout'])){
     <link rel="icon" href="/blog/images/icon.png">
     
 <style>
-table{
+table {
    font-family: arial, sans-serif, bold;
-   
-   border: 1px solid purple;
-   
+  border: 1px solid purple;
    border-spacing: 5px;
 }
-<table style="width:100%"> 
+th{
+  border: 2px solid black;
+  background-color:yellow;
+  border-spacing: 5px;}
+  
+td{border: 1px solid red;
+background-color:cyan;
+  border-spacing: 5px;}
+</style>
+  </head>
+<body>
+
+  <div style="background-image: url('C:\xampp\htdocs\AFP-2020-PHP-PROJECT\images\download.jpg');">
+
+  <table style="width:100%"> 
 
   <tr>
     <th>Firstname</th>
