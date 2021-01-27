@@ -42,8 +42,8 @@ if(isset($_GET['logout'])){
   <li> <a href="add_post.php">Add post</a></li>
   <li> <a href="our_services.php">Our Service</a> </li>
   <li> <a href="our_team.php">Our Team</a> </li>
-  <li> <a href="#about">About</a> </li>
-  <li> <a href="#contact us">Contact us</a> </li>
+  <li> <a href="about.php">About</a> </li>
+  <li> <a href="about.php">Contact us</a> </li>
   <li><a href="index.php?logout='1'">Logout</a></li>
   <div class="search-container">
   <form action="search.php" method="GET" name="">
