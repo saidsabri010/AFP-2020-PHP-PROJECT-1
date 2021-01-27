@@ -25,7 +25,7 @@ the blog can do a lot of stuff for the user(blogger) :
 * users will have a platform in which they can put thier own stuff and change it whenever they want to.
 
 # Intended audience
-Intended to be used by anyone that has access to internet and has something to write home about. It can be Students, teachers, community members, et ceteral.
+Intended to be used by anyone that has access to internet and has something to write home about. It can be Students, teachers, community members, et cetera.
 
 __User needs__
 
