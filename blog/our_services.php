@@ -14,7 +14,7 @@
   <p>       <em><strong>  </strong></em>Welcome to our web page. </p></h1>
 <h2 style="color:blue">If you are new here then You definitely need to know what we do here. </h2>
 <h2 style="color:blue">And what we do here is:</h2>
-<h3 style="color:red"> WE GIVE YOU A CHANCE TO FIND PEOPLE LIKE YOU. </h3>
+<h3 style="color:red"> WE GIVE YOU A CHANCE TO FIND PEOPLE LIKE YOURSELF. </h3>
 <h3 style="color:red" >WE GIVE YOU A CHANCE TO FIND ANSWERS FOR YOUR QUESTIONS.</h3>
 <h3 style="color:red">WE GIVE YOU AN ENJOYABLE MOMENT.</h3>
 <h4 style="color:yellow"> I know you are thinking what We can do here. </h4>
