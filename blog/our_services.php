@@ -22,8 +22,8 @@
 <h3 style="color:green"> You can ask questions. You can understand any other peoples' ideas. You can have a chat. You can share your stories. You can share your best time photos, Highlights from your life <em>AND STILL CAN BE PRIVATE FOR PUBLIC</em>.</h3>
 
 <p><h2>ARE YOU READY</h2></p>
-<p>You are not a user ! <a href="register.php"><b> Register Here</b> </a> </p>
-<p>Already a user ! <a href="login.php"><b> Login</b> </a> </p>
+<p>You are not an user ! <a href="register.php"><b> Register Here</b> </a> </p>
+<p>Already an user ! <a href="login.php"><b> Login</b> </a> </p>
  
  
 </body>
