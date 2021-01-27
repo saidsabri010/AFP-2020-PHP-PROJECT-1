@@ -7,7 +7,7 @@ We, as a team setting up our environment to startup our group project with the f
 5. Friedrichs Wade David
 6. Silabela Mxolisi
 
-We have agreed to develop a blog application,the application will let the user to become a blogger by allowing them to post thier content,Currently we are working on documentation which is an integral part of our application.This will give us ideas so that we will have a better understanding when it comes to implementation of our project.
+We have agreed to develop a blog application,the application will let the user to become a blogger by allowing them to post thier content. Currently we are working on documentation which is an integral part of our application.This will give us ideas so that we will have a better understanding when it comes to implementation of our project.
 
 ## UI Plan
 
