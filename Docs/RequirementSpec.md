@@ -13,7 +13,7 @@ Requirement specification
 
 __Project name__
 
-the project name is : **Blog**
+The project name is : **Blog**
 
 ![blog](/images/Blogging.png)
 
