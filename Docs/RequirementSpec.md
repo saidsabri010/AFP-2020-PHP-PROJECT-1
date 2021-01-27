@@ -12,6 +12,7 @@ Requirement specification
 9. Other requirements
 
 __Project name__
+
 the project name is : **Blog**
 
 ![blog](/images/Blogging.png)
